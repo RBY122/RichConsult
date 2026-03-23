@@ -1,16 +1,34 @@
-<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+# RichConsult
 
-⭐️ Congratulations RBY122! ⭐️
+Welcome to RichConsult, your premier partner for web development, branding, and data analysis solutions.
 
-You completed this exercise! Nice work! 🥳
+## About
 
-If you would like to practice again, you can retrace your steps below. Just press the **Start Exercise** button again.
+RichConsult is a consultancy firm specializing in:
+- **Web Development**: Creating responsive, modern websites and web applications
+- **Branding**: Developing compelling brand identities and visual strategies
+- **Data Analysis**: Transforming data into actionable business insights
 
-> [!TIP]
-> Mona won't grade you this time! 😉
+## Services
 
+### Web Development
+We build custom websites and web applications using cutting-edge technologies to help your business succeed online.
 
- # Introduction to GitHub
+### Branding
+Our branding experts craft unique identities that connect with your target audience and differentiate you from competitors.
+
+### Data Analysis
+Leverage the power of data with our comprehensive analysis services, including visualization and predictive modeling.
+
+## Getting Started
+
+To view the website locally:
+1. Open `index.html` in your web browser
+2. The site is fully responsive and works on all devices
+
+## Contact
+
+For inquiries or project discussions, please reach out to us at info@richconsult.com.
 
 <!-- ![](https://github.com/RBY122/skills-introduction-to-github/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/RBY122/skills-introduction-to-github/actions/workflows/1-create-a-branch.yml/badge.svg)
